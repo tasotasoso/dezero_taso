@@ -1,4 +1,4 @@
 language: python
   - "3.6"
 script: 
-  - python -m unittest ./step02.py
+  - python -m unittest step02.py
